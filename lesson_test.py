@@ -1,7 +1,6 @@
 """An example of a test module in pytest"""
 
 from lesson import total
-import pytest
 
 
 def test_total_empty() -> None:
